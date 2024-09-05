@@ -1,0 +1,10 @@
+@import url("homeCSS.css");
+#corp{
+    background-image: url("corporate-banking.jpg");
+    background-size: 500px 500px;
+    overflow: auto;
+    margin:30px auto;
+    border-radius:20px;
+    height:500px;
+    width:500px;
+}
